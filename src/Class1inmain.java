@@ -5,6 +5,8 @@ public class Class1inmain {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Code in main branch 1");
+		
+		System.out.println("After cloning in user2 machine code by uer2");
 
 	}
 
