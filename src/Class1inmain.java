@@ -7,6 +7,8 @@ public class Class1inmain {
 		System.out.println("Code in main branch 1");
 		
 		System.out.println("After cloning in user2 machine code by uer2");
+		
+		System.out.println("Code for new branch develop by user2");
 
 	}
 
