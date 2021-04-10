@@ -8,7 +8,7 @@ public class Class1inmain {
 		
 		System.out.println("After cloning in user2 machine code by uer2");
 		
-		System.out.println("Code for new branch develop by user2");
+		System.out.println("Code for new branch develop by user3");
 
 	}
 
